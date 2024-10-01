@@ -5,8 +5,8 @@
 Hello! I'm Justin, a passionate cybersecurity graduate student with a background in psychology and data analytics. I love working on projects that combine my interests in data, security, and technology.
 
 🎓 **Education**
-- M.S. in Cybersecurity, Quinnipiac University (2024-2026)
-- CompTIA Security+ Training, Charter Oak State College (2024-2025)
+- M.S. in Cybersecurity, Quinnipiac University (2024-Present)
+- CompTIA Security+ Training, Charter Oak State College (2024-Present)
 - B.A. in Developmental Psychology, Minor in Data Analytics, Post University (2017-2023)
   - Awards: Provost's List 2021, 2022, 2023
 
